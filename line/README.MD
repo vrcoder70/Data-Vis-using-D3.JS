@@ -11,14 +11,6 @@ This repository contains a data visualization project using D3.js to create inte
 - Interact with the line charts to explore data over time.
 - Filter the data based on years, world regions, and opacity.
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/your-username/d3-data-visualization.git
-
-
 ### Open the index.html file in your web browser to view the visualization.
 Usage
 ### The JavaScript code in the provided file (main.js) is used to create interactive line charts. The code handles filtering data based on selected world regions, years, and opacity, and it updates the visualization accordingly.

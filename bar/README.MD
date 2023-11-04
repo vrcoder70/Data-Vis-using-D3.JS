@@ -10,13 +10,6 @@ This repository contains a data visualization project using D3.js to create inte
 - Interact with the bar charts to see detailed information for each state.
 - Explore the dataset to draw insights into the impact of education on economic growth.
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/your-username/d3-data-visualization.git
-
 
 ### Open the index.html file in your web browser to view the visualization.
 

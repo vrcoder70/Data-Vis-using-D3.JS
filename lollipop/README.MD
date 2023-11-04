@@ -12,12 +12,6 @@ This repository contains a data visualization project using D3.js to create inte
 
 ## Getting Started
 
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/your-username/lollipop-chart-visualization.git
-
-
 ### Open the index.html file in your web browser to view the visualization.
 
 ### The JavaScript code in the provided file (main.js) creates interactive lollipop charts comparing male and female employment rates over time. The code uses D3.js to perform the following tasks:

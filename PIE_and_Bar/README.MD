@@ -12,14 +12,6 @@ This repository contains a data visualization project using D3.js to analyze and
 - Visualize character distribution using a pie chart and a bar chart.
 - Interact with the pie chart to explore detailed character distribution in the text.
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/your-username/character-distribution-visualization.git
-
-
 ### Open the index.html file in your web browser to use the character distribution visualization.
 
 ## Usage

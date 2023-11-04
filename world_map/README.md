@@ -12,13 +12,6 @@ This repository contains a data visualization project using D3.js to create an i
 - Implement zoom functionality to explore different regions.
 - Display country names as tooltips on hover.
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/your-username/world-map-visualization.git
-
 ### Open the index.html file in your web browser to use the world map visualization.
 
 ## Usage
