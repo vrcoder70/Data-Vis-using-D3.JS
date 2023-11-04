@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+.sphere {
+    fill: #190073;
+}
+
+.country {
+    fill: rgb(44, 234, 44);
+    stroke: rgb(0, 0, 0);
+    stroke-width: 0.1px;
+}
+
+.country:hover{
+    cursor: pointer;
+    fill:rgb(232, 127, 36);
+}
+
+#my_dataviz {
+    padding-left: 165px;
+    /* background-color: antiquewhite; */
+}

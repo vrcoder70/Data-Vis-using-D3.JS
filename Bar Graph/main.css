@@ -1,0 +1,50 @@
+body {
+    /* background-image: linear-gradient(#FF0078, #F6EFA7); */
+    /* background-image: radial-gradient(#EACDC2 20%, #B75D69 100%, #774C60 100%); */
+}
+
+.myContainer {
+    margin:auto;
+    width:1210px;
+}
+#plot_one, #plot_two {
+    float:left;
+    width:640px;
+    padding:10px;
+}
+#plot_two {
+    float:right;
+    position: relative;
+    z-index: 0;
+}
+svg {
+    width: 620px;
+    height:400px;
+    /* background-color: white;
+    border: 1px solid lightgray; */
+    border-radius: 3px;
+}
+/* border border-dark rounded bg-light shadow-sm */
+p, #link {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* text {
+    font-size: 1.4em;
+} */
+
+line {
+    opacity: 0.3;
+}
+
+.tooltip{
+    text-align: justify;
+    font-size: 1.2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+svg .bar, svg .barTwo{
+    cursor: pointer;
+}
+
