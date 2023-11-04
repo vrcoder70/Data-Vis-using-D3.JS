@@ -2,7 +2,7 @@
 
 This repository contains a data visualization project using D3.js to create interactive lollipop charts comparing male and female employment rates for selected countries over time.
 
-![Sample Image](Lollipop.png)
+![Sample Image](imgs/Lollipop.PNG)
 
 ## Features
 

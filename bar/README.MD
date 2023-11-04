@@ -2,7 +2,7 @@
 
 This repository contains a data visualization project using D3.js to create interactive bar charts. The project focuses on illustrating the relationship between literacy rates, growth rates, and the economic performance of different states.
 
-![Sample Image](Bar.png)
+![Sample Image](imgs/Bar.PNG)
 
 ## Features
 

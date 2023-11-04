@@ -2,8 +2,8 @@
 
 This repository contains a data visualization project using D3.js to create interactive line charts. The project focuses on visualizing global development data for different world regions.
 
-![Sample Image](Options.png)
-![Sample Image](Line.png)
+![Sample Image](imgs/Options.PNG)
+![Sample Image](imgs/Line.PNG)
 
 ## Features
 
